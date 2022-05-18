@@ -2,10 +2,6 @@
 <a href="https://www.linkedin.com/in/weslenwp/" target="_blank" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:weslen1905@gmail.com" target="_blank" alt="gmail"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-## 🚀 Sobre mim
-
-Eu sou desenvolvedor full-stack, atualmente venho focando mais no Front-end
-
 ## 📖 Linguagens
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML 5">
