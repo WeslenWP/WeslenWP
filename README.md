@@ -1,6 +1,10 @@
-# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Olá , eu sou o Weslen
-<a href="https://www.linkedin.com/in/weslenwp/" target="_blank" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:weslen1905@gmail.com" target="_blank" alt="gmail"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+# <div align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Olá , eu sou o Weslen<br><a href="https://www.linkedin.com/in/weslenwp/" target="_blank" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;<a href="mailto:weslen1905@gmail.com" target="_blank" alt="gmail"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a></div>
+
+<div align="center">
+  <img width="55%"  src="https://github-readme-streak-stats.herokuapp.com?user=WeslenWP&theme=tokyonight" alt="Status"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslenWP&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+
 
 ## 📖 Linguagens
 <div>
@@ -29,11 +33,4 @@
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
-
-## 🥇 Status
-
-<div align="center">
-  <img width="55%"  src="https://github-readme-streak-stats.herokuapp.com?user=WeslenWP&theme=tokyonight" alt="Status"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslenWP&layout=compact&langs_count=7&theme=gotham"/>
 </div>
