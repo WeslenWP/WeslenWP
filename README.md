@@ -1,8 +1,7 @@
 # <div align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Olá , eu sou o Weslen<br><a href="https://www.linkedin.com/in/weslenwp/" target="_blank" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;<a href="mailto:weslen1905@gmail.com" target="_blank" alt="gmail"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a></div>
 
 <div align="center">
-  <img width="55%"  src="https://github-readme-streak-stats.herokuapp.com?user=WeslenWP&theme=tokyonight" alt="Status"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslenWP&layout=compact&langs_count=7&theme=gotham"/>
+ <img width="57%" src="https://github-readme-stats.vercel.app/api?username=WeslenWP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs&hide_border=true"/> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslenWP&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/>
 </div>
 
 
