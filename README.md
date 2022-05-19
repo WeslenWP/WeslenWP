@@ -35,5 +35,5 @@
 
 <div align="center">
   <img width="55%"  src="https://github-readme-streak-stats.herokuapp.com?user=WeslenWP&theme=tokyonight" alt="Status"/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoryu&layout=compact&langs_count=7&theme=gotham"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslenWP&layout=compact&langs_count=7&theme=gotham"/>
 </div>
