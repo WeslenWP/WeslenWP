@@ -30,6 +30,7 @@
 ## 🛠 Ferramentas
 <div>
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+ <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" alt="IntelliJ IDEA">
 <img src="https://img.shields.io/badge/laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
