@@ -1,11 +1,11 @@
-# <div align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Olá , eu sou o Weslen<br><a href="https://www.linkedin.com/in/weslenwp/" target="_blank" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;<a href="mailto:weslen1905@gmail.com" target="_blank" alt="gmail"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a></div>
+# <div align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hi, I'm Weslen<br><a href="https://www.linkedin.com/in/weslenwp/" target="_blank" alt="linkedin"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;<a href="mailto:weslen1905@gmail.com" target="_blank" alt="gmail"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a></div>
 
 <div align="center">
  <img width="57%" src="https://github-readme-stats.vercel.app/api?username=WeslenWP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs&hide_border=true"/> <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslenWP&layout=compact&langs_count=6&theme=github_dark&hide_border=true"/>
 </div>
 
 
-## 📖 Linguagens
+## 📖 Languages
 <div>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML 5">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS 3">
@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter">
 </div>
 
-## 🛠 Ferramentas
+## 🛠 Tools
 <div>
 <img src="https://img.shields.io/badge/visual studio code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/intellij idea-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" alt="IntelliJ IDEA">
